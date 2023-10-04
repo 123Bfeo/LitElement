@@ -17,4 +17,12 @@ Hemos implementado características interactivas que mejoran la experiencia del 
 
 ##Estilos Personalizados:
  Hemos aplicado estilos personalizados utilizando CSS  para lograr una apariencia visual atractiva y coherente en toda la aplicación.
- 
+
+##Evidencias:
+
+Inicio:
+![Alt text](image.png)
+Busqueda por nombre:
+![Alt text](image-1.png)
+Busqueda con selector:
+![Alt text](image-2.png)
