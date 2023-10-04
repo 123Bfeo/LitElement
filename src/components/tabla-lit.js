@@ -22,8 +22,8 @@ export class TablaLit extends LitElement {
         {title:"Country"},
     ];
     this.body =[
-        {company:"Alfreds Futterkiste",contact:"Maria Anders", country:"Germany"}
-        {company:"Centro comercial Moctezuma",contact:"Francisco Chang", country:"Mexico"}
+        {company:"Alfreds Futterkiste",contact:"Maria Anders", country:"Germany"},
+        {company:"Centro comercial Moctezuma",contact:"Francisco Chang", country:"Mexico"},
         {company:"Indra",contact:"Luis David", country:"Colombia"}
     ]
  }

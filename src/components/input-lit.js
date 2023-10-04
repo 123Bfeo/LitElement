@@ -36,19 +36,6 @@ export class InputLit extends LitElement {
           />
           <div id="error"></div>
         </div>
-        <!-- <div class="container">
-          <label class="require">Input General</label>
-          <input
-            type="text"
-            minlength="3"
-            maxlength="8"
-            placeholder="Escribe un texto"
-            value=""
-            @change="${this.handlerInput}"
-            ?disabled = "${this.disable}"
-          />
-          <div id="error"></div>
-        </div> -->
       </div>
     `;
   }

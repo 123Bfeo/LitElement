@@ -91,7 +91,7 @@ export class SearchLit extends LitElement {
               @value-input="${this.dataInputSpecies}"
             ></input-lit>
             <input-lit
-              plaseholder="Ingrese un titulo"
+              plaseholder="Ingrese un tipo"
               @value-input="${this.dataInputTitle}"
             ></input-lit>
             <select-lit
@@ -99,7 +99,7 @@ export class SearchLit extends LitElement {
               @value-select="${this.dataSelectGender}"
             ></select-lit>
             <input-lit
-              plaseholder="Ingrese una pagina"
+              plaseholder="Ingrese una página"
               @value-input="${this.dataInputPage}"
             ></input-lit>
             <button-lit

@@ -20,38 +20,6 @@ export class SelectLit extends LitElement {
   }
   render() {
     return html`
-      <!-- <div>
-          <label>Select General</label>
-          <div class="space"></div>
-          <select
-            name="country"
-            class="colorSelect"
-            @input="${this.handrerSelect}"
-          >
-            <option value="">-- Selecione --</option>
-            <option value="CO">Colombia</option>
-            <option value="AU">Australia</option>
-            <option value="USA">Estados Unidos</option>
-          </select>
-          <div class="space" id="error"></div>
-        </div>
-        <div>
-          <label>Select General</label>
-          <div class="space"></div>
-          <select
-            name="country"
-            class="colorSelect"
-            @input="${this.handrerSelect}"
-            ?disabled="${this.disable}"
-          >
-            <option value="">-- Selecione --</option>
-            <option value="CO">Colombia</option>
-            <option value="AU">Australia</option>
-            <option value="USA">Estados Unidos</option>
-          </select>
-          <div class="space" id="error"></div>
-        </div> -->
-      <div>
         <div class="container">
           <select
             name="country"

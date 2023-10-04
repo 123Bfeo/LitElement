@@ -32,8 +32,6 @@ export class ButtonLit extends LitElement {
         return html`
         <div>
         <div class="container">
-             <!-- <button class="button-primary" @click="${this.eventButton}" ?disabled="${this.disable}">Primary</button> -->
-             <!--<button class="button-second" @click="${this.eventButton}" ?disabled="${this.disable}">Second</button>-->
             <button class="button-tertiary" @click="${this.eventButton}" ?disabled="${this.disable}">Buscar</button> 
          </div>
         </div>
